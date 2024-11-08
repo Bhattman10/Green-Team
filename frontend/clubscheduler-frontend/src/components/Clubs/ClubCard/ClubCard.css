@@ -1,0 +1,33 @@
+.club-card {
+    display: flex;
+    flex-direction: column;
+    height: 300px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+  }
+  
+.club-image-container {
+    display: flex;
+    height: 200px;
+    overflow: hidden;
+    border-bottom: 1px solid #ddd; /* Adding a border to separate image and details */
+}
+
+.club-thumbnail {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;   
+}
+
+.club-details {
+    padding: 20px;
+}
+
+.club-name {
+    font-size: 1.5rem;
+}
+
+a {
+    color: #000;
+}

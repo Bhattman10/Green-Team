@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.club-details {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.club-details h1 {
+    font-size: 36px;
+    margin-bottom: 10px;
+}
+
+.club-image {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 20px;
+}
+
+.creator h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.description h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.description p {
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.members h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.members ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.members li {
+    font-size: 16px;
+    margin-bottom: 5px;
+}
